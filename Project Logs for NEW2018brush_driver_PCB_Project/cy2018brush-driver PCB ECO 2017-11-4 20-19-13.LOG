@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=放大电路 Member=R24
+Removed Member From Class: ClassName=放大电路 Member=R25
+Removed Member From Class: ClassName=放大电路 Member=R26
+Added Member To Class: ClassName=Sheet1 Member=Component P4 Header 10
+Added Member To Class: ClassName=Sheet1 Member=Component R27 Res_0603
+Added Member To Class: ClassName=放大电路 Member=Component R30 Res_0603
+Added Member To Class: ClassName=放大电路 Member=Component R31 Res_0603
+Added Member To Class: ClassName=放大电路 Member=Component R32 Res_0603

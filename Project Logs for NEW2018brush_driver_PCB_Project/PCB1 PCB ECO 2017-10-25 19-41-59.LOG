@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=5V Pin=D6-4
+Removed Pin From Net: NetName=5V Pin=D6-5
+Removed Pin From Net: NetName=5V Pin=D6-6
+Removed Pin From Net: NetName=PGND Pin=Q1-2
+Removed Pin From Net: NetName=PGND Pin=Q2-2
+Removed Pin From Net: NetName=PGND Pin=Q3-2
+Removed Pin From Net: NetName=BOOT1 Pin=R24-1
+Removed Pin From Net: NetName=LED2 Pin=R25-1
+Removed Pin From Net: NetName=LED1 Pin=R26-1
+Removed Member From Class: ClassName=Sheet1 Member=D6
+Removed Member From Class: ClassName=Sheet1 Member=Q1
+Removed Member From Class: ClassName=Sheet1 Member=Q2
+Removed Member From Class: ClassName=Sheet1 Member=Q3
+Removed Member From Class: ClassName=Sheet1 Member=R19
+Removed Member From Class: ClassName=Sheet1 Member=R22
+Removed Member From Class: ClassName=Sheet1 Member=R23
+Removed Member From Class: ClassName=Sheet1 Member=R24
+Removed Member From Class: ClassName=Sheet1 Member=R25
+Removed Member From Class: ClassName=Sheet1 Member=R26
+Added Room: Name=Sheet1

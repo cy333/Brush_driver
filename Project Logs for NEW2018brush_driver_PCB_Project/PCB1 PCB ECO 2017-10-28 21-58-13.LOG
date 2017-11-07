@@ -1,0 +1,34 @@
+Added Component: Designator=*?(SOP_E150_8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R35(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "500K"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "500K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=*?-5
+Added Pin To Net: NetName=PGND Pin=R35-1
+Added Pin To Net: NetName=VI Pin=R36-1
+Added Pin To Net: NetName=Net*?_1 Pin=*?-1
+Added Pin To Net: NetName=Net*?_1 Pin=R37-2
+Added Net: Name=Net*?_1
+Added Pin To Net: NetName=Net*?_2 Pin=*?-2
+Added Pin To Net: NetName=Net*?_2 Pin=R35-2
+Added Pin To Net: NetName=Net*?_2 Pin=R37-1
+Added Net: Name=Net*?_2
+Added Pin To Net: NetName=Net*?_3 Pin=*?-3
+Added Pin To Net: NetName=Net*?_3 Pin=R36-2
+Added Pin To Net: NetName=Net*?_3 Pin=R38-2
+Added Net: Name=Net*?_3
+Added Pin To Net: NetName=Net*?_4 Pin=*?-4
+Added Pin To Net: NetName=Net*?_4 Pin=R38-1
+Added Net: Name=Net*?_4
+Added Class: Name=放大电路
+Added Room: Name=Sheet1
+Added Room: Name=放大电路

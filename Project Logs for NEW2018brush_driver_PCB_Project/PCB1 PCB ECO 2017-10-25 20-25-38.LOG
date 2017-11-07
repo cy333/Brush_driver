@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=TPS1 Old Footprint=SOP_E150_8 New Footprint=SOP_E150_9
+Added Pin To Net: NetName=PGND Pin=TPS1-9
+Added Room: Name=Sheet1
