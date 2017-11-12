@@ -1,7 +1,0 @@
-Remove Pin=LS2B-5 From Net=PWMB
-Remove Pin=LS2B-6 From Net=PWMBIN
-Remove Pin=LS2C-8 From Net=DISIN
-Remove Pin=LS2C-10 From Net=DIS
-Remove Pin=OLED1-3 From Net=PA5
-Remove Pin=OLED1-4 From Net=SDI
-Remove Pin=OLED1-5 From Net=OLEDRESET
