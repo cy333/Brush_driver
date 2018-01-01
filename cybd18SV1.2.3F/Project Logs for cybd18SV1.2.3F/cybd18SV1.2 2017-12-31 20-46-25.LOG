@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=3V3 Pin=*1-1
+Removed Pin From Net: NetName=VIF Pin=*1-10
+Removed Pin From Net: NetName=GND Pin=*1-12
+Removed Pin From Net: NetName=3V3 Pin=*1-13
+Removed Pin From Net: NetName=SPEED_A Pin=*1-14
+Removed Pin From Net: NetName=SPEED_B Pin=*1-15
+Removed Pin From Net: NetName=GND Pin=*1-18
+Removed Pin From Net: NetName=3V3 Pin=*1-19
+Removed Pin From Net: NetName=SPEED2_A Pin=*1-22
+Removed Pin From Net: NetName=SPEED2_B Pin=*1-23
+Removed Pin From Net: NetName=VIF2 Pin=*1-24
+Removed Pin From Net: NetName=GND Pin=*1-31
+Removed Pin From Net: NetName=3V3 Pin=*1-32
+Removed Pin From Net: NetName=DIS2 Pin=*1-36
+Removed Pin From Net: NetName=PWM2A Pin=*1-38
+Removed Pin From Net: NetName=PWM2B Pin=*1-39
+Removed Pin From Net: NetName=TXD Pin=*1-42
+Removed Pin From Net: NetName=RXD Pin=*1-43
+Removed Pin From Net: NetName=CAN_RX Pin=*1-44
+Removed Pin From Net: NetName=CAN_TX Pin=*1-45
+Removed Pin From Net: NetName=GND Pin=*1-47
+Removed Pin From Net: NetName=3V3 Pin=*1-48
+Removed Pin From Net: NetName=PWMA Pin=*1-58
+Removed Pin From Net: NetName=PWMB Pin=*1-59
+Removed Pin From Net: NetName=DIS Pin=*1-62
+Removed Pin From Net: NetName=GND Pin=*1-63
+Removed Pin From Net: NetName=3V3 Pin=*1-64
+Removed Pin From Net: NetName=GND Pin=3V3LED-2
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=3V3 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=3V3 Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=3V3 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=3V3 Pin=C6-2
+Removed Pin From Net: NetName=3V3 Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=5V Pin=LS2-1
+Removed Pin From Net: NetName=PGND Pin=Q1-2
+Removed Pin From Net: NetName=3V3 Pin=R2-1
+Removed Pin From Net: NetName=3V3 Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=3V3 Pin=R7-2
+Removed Pin From Net: NetName=3V3 Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=3V3 Pin=SWD-1
+Removed Pin From Net: NetName=GND Pin=SWD-4
+Added Component: Designator=Core1(STM32F103Small)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=Core1-1
+Added Pin To Net: NetName=3V3 Pin=Core1-2
+Added Pin To Net: NetName=GND Pin=Core1-4
+Added Pin To Net: NetName=GND Pin=Core1-5
+Change Net Name : Old Net Name=NetP3_1 New Net Name=NetCAN_1
+Added Class: Name=F103H
+Added Member To Class: ClassName=HIP4082driver Member=Component au1 HDR1x6_2.54
+Added Member To Class: ClassName=电流环 Member=Component R29 Res_0603
+Added Member To Class: ClassName=电流环 Member=Component R30 Res_0603
+Added Room: Name=hcpl0630
+Added Room: Name=taj1050

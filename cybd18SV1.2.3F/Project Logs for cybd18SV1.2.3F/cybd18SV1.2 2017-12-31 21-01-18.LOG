@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=tlv117_5_3.3 Member=C3
+Removed Member From Class: ClassName=tps5430_VIN_5V Member=C5
+Removed Member From Class: ClassName=tps5430_VIN_5V Member=C6
+Removed Member From Class: ClassName=hcpl0630 Member=C9
+Removed Member From Class: ClassName=HIP4082driver Member=C10
+Removed Member From Class: ClassName=HIP4082driver Member=C11
+Removed Member From Class: ClassName=HIP4082driver Member=C12
+Removed Member From Class: ClassName=lm27313_5_12 Member=C15
+Removed Member From Class: ClassName=lm27313_5_12 Member=R4
+Removed Member From Class: ClassName=lm27313_5_12 Member=R6
+Removed Member From Class: ClassName=taj1050 Member=R7
+Removed Member From Class: ClassName=tlv117_5_3.3 Member=R8
+Removed Member From Class: ClassName=hcpl0630 Member=R10
+Removed Member From Class: ClassName=hcpl0630 Member=R11
+Removed Member From Class: ClassName=hcpl0630 Member=R12
+Removed Member From Class: ClassName=电流环 Member=R12
+Removed Member From Class: ClassName=hcpl0630 Member=R13
+Removed Member From Class: ClassName=HIP4082driver Member=R14
+Removed Member From Class: ClassName=HIP4082driver Member=R15
+Removed Member From Class: ClassName=HIP4082driver Member=R16
+Removed Member From Class: ClassName=HIP4082driver Member=R17
+Removed Member From Class: ClassName=HIP4082driver Member=R18
+Removed Member From Class: ClassName=HIP4082driver Member=R19
+Removed Member From Class: ClassName=HIP4082driver Member=R20
+Removed Member From Class: ClassName=lm27313_5_12 Member=R21
+Removed Member From Class: ClassName=lm27313_5_12 Member=R22
+Added Member To Class: ClassName=tlv117_5_3.3 Member=Component C11 Cap_Tan_0805
+Added Member To Class: ClassName=tps5430_VIN_5V Member=Component C13 Cap_0603
+Added Member To Class: ClassName=tps5430_VIN_5V Member=Component C14 Cap_0603
+Added Member To Class: ClassName=lm27313_5_12 Member=Component R13 Res_0603
+Added Member To Class: ClassName=lm27313_5_12 Member=Component R15 Res_0603
+Added Member To Class: ClassName=taj1050 Member=Component R16 Res_0603
+Added Member To Class: ClassName=tlv117_5_3.3 Member=Component R17 Res_0603
+Added Member To Class: ClassName=电流环 Member=Component R21 Res_0603
+Added Room: Name=hcpl0630

@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=tlv117_5_3.3 Member=C2
+Removed Member From Class: ClassName=tlv117_5_3.3 Member=C3
+Removed Member From Class: ClassName=tlv117_5_3.3 Member=C4
+Removed Member From Class: ClassName=tps5430_VIN_5V Member=C5
+Removed Member From Class: ClassName=tps5430_VIN_5V Member=C6
+Removed Member From Class: ClassName=tps5430_VIN_5V Member=C7
+Removed Member From Class: ClassName=tps5430_VIN_5V Member=C8
+Removed Member From Class: ClassName=电流环 Member=C10
+Removed Member From Class: ClassName=lm27313_5_12 Member=R5
+Removed Member From Class: ClassName=lm27313_5_12 Member=R6
+Removed Member From Class: ClassName=taj1050 Member=R7
+Removed Member From Class: ClassName=tlv117_5_3.3 Member=R8
+Removed Member From Class: ClassName=tlv117_5_3.3 Member=R9
+Added Pin To Net: NetName=VIF Pin=Core1-8
+Added Pin To Net: NetName=VIF2 Pin=Core1-19
+Added Member To Class: ClassName=tlv117_5_3.3 Member=Component C10 Cap_0603
+Added Member To Class: ClassName=tlv117_5_3.3 Member=Component C11 Cap_Tan_0805
+Added Member To Class: ClassName=tps5430_VIN_5V Member=Component C13 Cap_0603
+Added Member To Class: ClassName=tps5430_VIN_5V Member=Component C14 Cap_0603
+Added Member To Class: ClassName=电流环 Member=Component C18 Cap_0603
+Added Member To Class: ClassName=tlv117_5_3.3 Member=Component R17 Res_0603

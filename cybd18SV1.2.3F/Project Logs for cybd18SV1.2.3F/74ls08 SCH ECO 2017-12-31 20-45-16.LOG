@@ -1,0 +1,20 @@
+Remove Pin=Core1-6 From Net=RING
+Remove Pin=Core1-8 From Net=VIF
+Remove Pin=Core1-10 From Net=SPEED_A
+Remove Pin=Core1-11 From Net=SPEED_B
+Remove Pin=Core1-17 From Net=SPEED2_A
+Remove Pin=Core1-18 From Net=SPEED2_B
+Remove Pin=Core1-19 From Net=VIF2
+Remove Pin=Core1-26 From Net=DIS
+Remove Pin=Core1-28 From Net=PWMB
+Remove Pin=Core1-29 From Net=PWMA
+Remove Pin=Core1-38 From Net=CAN_TX
+Remove Pin=Core1-39 From Net=CAN_RX
+Remove Pin=Core1-40 From Net=RXD
+Remove Pin=Core1-41 From Net=TXD
+Remove Pin=Core1-44 From Net=PWM2B
+Remove Pin=Core1-45 From Net=PWM2A
+Remove Pin=Core1-47 From Net=DIS2
+Change Component Designator: OldDesignator=2 NewDesignator=12VLED
+Change Component Designator: OldDesignator=P3 NewDesignator=CAN
+Change Component Designator: OldDesignator=P4 NewDesignator=F/O

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=3V3 Pin=Core1-1
+Added Pin To Net: NetName=3V3 Pin=Core1-2
+Added Member To Class: ClassName=F103H Member=Component Core1 STM32F103 SMALL
